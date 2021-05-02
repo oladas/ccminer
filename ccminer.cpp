@@ -3992,7 +3992,9 @@ int main(int argc, char *argv[])
 		printf("  Originally based on Christian Buchner and Christian H. project\n");
 		printf("  Include some kernels from alexis78, djm34, djEzo, tsiv and krnlx.\n\n");
 		printf("  based on tpruvot's repository\n\n");
-		printf("BTC donation address: bc1qnp66cz7eqcs4r5209y36xmse7dms6t3qvk6yd3 (oladas)\n\n");
+		printf("BTC  donation address: bc1qnp66cz7eqcs4r5209y36xmse7dms6t3qvk6yd3 (oladas)\n");
+		printf("GRLC donation address: GdKG7oAFutMZRuEcTrbc9TYm4M3u3nYTgL (oladas)\n");
+		printf("All donated funds go towards maintaining the Garlicoin Infrastructure by Crapules Corp.\n\n");
 	}
 
 	rpc_user = strdup("");
