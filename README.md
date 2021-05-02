@@ -1,12 +1,15 @@
 # ccminer
 
 Based on Christian Buchner's &amp; Christian H.'s CUDA project, no more active on github since 2014.
+
 Based on Tanguy Pruvot's repository, cloned to compile on latest CUDA Toolkit Version.
 
 Check the [README.txt](README.txt) for the additions
 
 BTC  donation address: bc1qnp66cz7eqcs4r5209y36xmse7dms6t3qvk6yd3 (oladas)
+
 GRLC donation address: GdKG7oAFutMZRuEcTrbc9TYm4M3u3nYTgL (oladas)
+
 All donated funds go towards maintaining the Garlicoin Infrastructure by Crapules Corp.
 
 A part of the recent algos were originally written by [djm34](https://github.com/djm34) and [alexis78](https://github.com/alexis78)
