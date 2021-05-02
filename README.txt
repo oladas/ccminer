@@ -6,6 +6,10 @@ ccminer 2.3.1                     "lyra2v3, exosis and sha256q"
 If you find this tool useful and like to support its continuous
           development, then consider a donation.
 
+oladas@github:
+  BTC  : bc1qnp66cz7eqcs4r5209y36xmse7dms6t3qvk6yd3
+  GRLC : GdKG7oAFutMZRuEcTrbc9TYm4M3u3nYTgL
+
 tpruvot@github:
   BTC  : 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo
   DCR  : DsUCcACGcyP8McNMRXQwbtpDxaVUYLDQDeU
